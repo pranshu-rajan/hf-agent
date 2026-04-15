@@ -1,0 +1,16 @@
+gradio
+numpy
+openpyxl
+pandas
+pillow
+pytesseract
+requests
+smolagents
+smolagents[audio]
+smolagents[openai]
+smolagents[transformers]
+transformers
+wikipedia-api
+youtube-transcript-api
+openai-whisper
+openai
