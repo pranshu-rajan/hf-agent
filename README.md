@@ -6,7 +6,7 @@ title: GAIA Benchmark Agent - Final Assessment
 emoji: 🕵🏻‍♂️
 colorFrom: indigo
 colorTo: indigo
-sdk: gradio
+sdk: Gradio
 sdk_version: 5.25.2
 app_file: app.py
 pinned: false

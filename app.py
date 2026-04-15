@@ -32,7 +32,7 @@ def run_and_submit_all(
     Returns:
         Tuple[str, Optional[pd.DataFrame]]: Status message and DataFrame of results.
     """
-    # --- Determine HF Space Runtime URL and Repo URL ---
+   
     space_id = os.getenv("SPACE_ID") # Get the SPACE_ID for sending link to the code
 
     if profile:
